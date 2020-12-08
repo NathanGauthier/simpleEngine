@@ -1,0 +1,13 @@
+﻿G:\visual studio\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+  Actor.cpp
+  AnimSpriteComponent.cpp
+  Assets.cpp
+  Component.cpp
+  Game.cpp
+  Main.cpp
+  MoveComponent.cpp
+  Renderer.cpp
+  SpriteComponent.cpp
+  Texture.cpp
+  Génération de code en cours...
+  simpleGameEngine.vcxproj -> D:\Artfx\GameEngine\simpleGameEngine\simpleGameEngine\.\x64\simpleGameEngine.exe
